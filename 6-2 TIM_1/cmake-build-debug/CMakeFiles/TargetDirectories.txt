@@ -1,0 +1,3 @@
+D:/MyStm/6-2 TIM_1/cmake-build-debug/CMakeFiles/stm32.elf.dir
+D:/MyStm/6-2 TIM_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyStm/6-2 TIM_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
