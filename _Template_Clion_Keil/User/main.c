@@ -3,7 +3,7 @@
 
 
 int main(void) {
-	OLED_Init();
-	OLED_ShowString(1, 1, "Hello World");
-	while(1) {}
+    OLED_Init();
+    OLED_ShowString(1, 1, "Hello World");
+    while (1) {}
 }
