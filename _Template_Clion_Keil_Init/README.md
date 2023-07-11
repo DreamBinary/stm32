@@ -1,3 +1,11 @@
+[Clion + Keil5 写stm32_fiv·的博客-CSDN博客](https://blog.csdn.net/WdbM_/article/details/131651748)
+
+[Clion + Keil5 写stm32 - 掘金 (juejin.cn)](https://juejin.cn/post/7254127644211413053)
+
+---
+# 前言
+最近在学 stm32，使用 Kei5 写代码十分难受，代码提示差，看源码复杂，甚至括号匹配都没有。就想着 JetBrains 家的东西能不能用，就找的了稚晖君的[《配置CLion用于STM32开发【优雅の嵌入式开发】》](https://www.bilibili.com/read/cv6308000)，配置之后又想用 stm32 的原生库不想用HAL库，因为跟着江协科技学起来方便。折腾一番，发现能编译，能烧录，但 stm32 就是跑不起来。最后想了一个折中的办法，用 Clion 来写代码，用 Keil5 来烧录。 
+
 ---
 # 一、现有条件
 根据稚晖君的教程会得到以下目录：
@@ -34,7 +42,7 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20f3dec658344cca9d8e179019fa260b.png)
 这个目录用于 Clion 写代码的时候使用，接下来将原来 Keil 目录中所有的 .h 和 .c文件复制到 Inc 和 Src 两个文件夹。
-这里我用 python 写了一个小脚本编成了 copy2clion.exe，.py 和 .exe 都在 [Github](https://github.com/DreamBinary/stm32/tree/master/_Template_Clion_Keil_Init)了，有需要可以直接修改 .py 文件，然后用 auto-py-to-exe(超好用超好用)编译成 exe。
+这里我用 python 写了两个个小脚本编成了 copy2clion.exe 和 link2clion，前者仅仅是复制，后者用使用了硬链接，在 Clion 中修改文件可以同步到源文件，方便在 Clion 中编辑在 Keil 中编译。.py 和 .exe 都在 [Github](https://github.com/DreamBinary/stm32/tree/master/_Template_Clion_Keil_Init)了，有需要可以直接修改 .py 文件，然后用 auto-py-to-exe(超好用超好用)编译成 exe。
 修改 CMakeLists.txt 文件如下：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e76a3c8342ca46ada872161cf7cc9f77.png)
@@ -54,3 +62,10 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/bfa0942354df49bf98e13e2fc1501fec.png)
 ## 5. 编译烧录
 程序的编译和烧录就要用 Keil 来执行了，所有操作都和之前一样，不过在 Clion 中有新建项目的时候，在 Keil 也要添加一下不然会报错。
+
+
+
+
+---
+# 最后
+希望大家有个良好的 stm32 学习体验。
