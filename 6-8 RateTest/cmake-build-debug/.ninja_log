@@ -1,0 +1,13 @@
+# ninja log v5
+20	322	7114294803434326	CMakeFiles/stm32.elf.dir/Clion/Src/Motor.c.obj	81e4e8e395c077b9
+25	325	7114294803424605	CMakeFiles/stm32.elf.dir/Clion/Src/PWM.c.obj	867f2415e23e4819
+1	333	7114294803474372	CMakeFiles/stm32.elf.dir/Clion/Src/Delay.c.obj	6969cc8937afba16
+51	326	7114294803424605	CMakeFiles/stm32.elf.dir/Clion/Src/main.c.obj	5a39dd84afc4d356
+64	365	7114294803944228	CMakeFiles/stm32.elf.dir/Clion/Src/stm32f10x_can.c.obj	341a9735a23249d6
+5	327	7114294803484527	CMakeFiles/stm32.elf.dir/Clion/Src/Buzzer.c.obj	423198c6fb4a0684
+30	330	7114294803504344	CMakeFiles/stm32.elf.dir/Clion/Src/OLED.c.obj	6e355ffd0b288dd
+9	335	7114294803444339	CMakeFiles/stm32.elf.dir/Clion/Src/LightSensor.c.obj	1d7e35e0604d5c31
+13	331	7114294803534449	CMakeFiles/stm32.elf.dir/Clion/Src/LED.c.obj	57f44862e54dd49f
+35	337	7114294803494423	CMakeFiles/stm32.elf.dir/Clion/Src/Timer.c.obj	a7d96ff99c63b6bc
+57	342	7114294803544541	CMakeFiles/stm32.elf.dir/Clion/Src/misc.c.obj	2d4e06d3333cb78e
+17	344	7114294803504344	CMakeFiles/stm32.elf.dir/Clion/Src/Key.c.obj	f9bd5d1d2f113660
