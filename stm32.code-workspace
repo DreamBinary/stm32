@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f10x.h": "c",
+			"delay.h": "c",
+			"oled.h": "c"
+		}
+	}
+}
