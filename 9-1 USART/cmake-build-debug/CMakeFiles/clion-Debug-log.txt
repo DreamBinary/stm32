@@ -1,0 +1,5 @@
+"D:\Mysoftware_setup\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "D:\MyStm\9-1 USART_RX" -B "D:\MyStm\9-1 USART_RX\cmake-build-debug"
+-- Minimal optimization, debug info included
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/MyStm/9-1 USART_RX/cmake-build-debug
