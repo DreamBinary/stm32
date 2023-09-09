@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/MyStm/9-1 USART_RX/cmake-build-debug"
+			"value" : "d:/MyStm/9-1 USART/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -687,7 +687,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/MyStm/9-1 USART_RX/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/MyStm/9-1 USART/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -747,7 +747,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/MyStm/9-1 USART_RX"
+			"value" : "D:/MyStm/9-1 USART"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1275,7 +1275,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/MyStm/9-1 USART_RX/cmake-build-debug"
+			"value" : "D:/MyStm/9-1 USART/cmake-build-debug"
 		},
 		{
 			"name" : "stm32_IS_TOP_LEVEL",
@@ -1299,7 +1299,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/MyStm/9-1 USART_RX"
+			"value" : "D:/MyStm/9-1 USART"
 		}
 	],
 	"kind" : "cache",

@@ -10,6 +10,9 @@
 uint8_t Serial_RxData;
 uint8_t Serial_RxFlag = 0;
 
+uint8_t Serial_TxPacket[4];
+uint8_t Serial_RxPacket[4];
+
 void Serial_Init() {
     RCC_APB2PeriphClockCmd(RCC_APB2Periph_USART1, ENABLE);
     RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOA, ENABLE);
@@ -92,11 +95,45 @@ uint8_t Serial_GetRxFlag() {
 uint8_t Serial_GetRxData() {
     return Serial_RxData;
 }
-
+//uint8_t state = 0;
+//uint8_t rxCnt = 0;
 void USART1_IRQHandler() {
+    static uint8_t state = 0;   // must  static !!!
+    static uint8_t rxCnt = 0;
     if (USART_GetITStatus(USART1, USART_IT_RXNE) == SET) {
+//        Serial_RxData = USART_ReceiveData(USART1);
+//        Serial_RxFlag = 1;
         Serial_RxData = USART_ReceiveData(USART1);
-        Serial_RxFlag = 1;
+        if (state == 0) {
+            if (Serial_RxData == 0xFF) {
+                state = 1;
+                rxCnt = 0;
+            }
+        } else if (state == 1) {
+            Serial_RxPacket[rxCnt++] = Serial_RxData;
+            if (rxCnt == 4) {
+                state = 2;
+            }
+        } else if (state == 2) {
+            if (Serial_RxData == 0xFE) {
+                state = 0;
+                Serial_RxFlag = 1;
+            }
+        }
+
         USART_ClearITPendingBit(USART1, USART_IT_RXNE);
     }
 }
+
+void Serial_SendArray(uint8_t *array, uint8_t length) {
+    for (int i = 0; i < length; ++i) {
+        Serial_SendByte(array[i]);
+    }
+}
+
+void Serial_SendPacket() {
+    Serial_SendByte(0xFF);
+    Serial_SendArray(Serial_TxPacket, 4);
+    Serial_SendByte(0xFE);
+}
+

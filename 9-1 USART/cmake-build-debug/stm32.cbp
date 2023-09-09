@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/MyStm/9-1 USART_RX/cmake-build-debug"/>
+				<Option working_dir="D:/MyStm/9-1 USART/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="stm32.elf">
-				<Option output="D:/MyStm/9-1 USART_RX/cmake-build-debug/stm32.elf" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/MyStm/9-1 USART_RX/cmake-build-debug"/>
+				<Option output="D:/MyStm/9-1 USART/cmake-build-debug/stm32.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/MyStm/9-1 USART/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -27,7 +27,7 @@
 					<Add option="-DDEBUG"/>
 					<Add option="-DUSE_STDPERIPH_DRIVER"/>
 					<Add option="-DSTM32F10x_MD"/>
-					<Add directory="D:/MyStm/9-1 USART_RX/Clion/Inc"/>
+					<Add directory="D:/MyStm/9-1 USART/Clion/Inc"/>
 					<Add directory="d:\myconfigure\gcc-arm-none-eabi\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
 					<Add directory="d:\myconfigure\gcc-arm-none-eabi\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
 					<Add directory="d:\myconfigure\gcc-arm-none-eabi\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/backward"/>
@@ -36,15 +36,15 @@
 					<Add directory="d:\myconfigure\gcc-arm-none-eabi\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 stm32.elf"/>
-					<CompileFile command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 stm32.elf"/>
+					<CompileFile command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="stm32.elf/fast">
-				<Option output="D:/MyStm/9-1 USART_RX/cmake-build-debug/stm32.elf" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/MyStm/9-1 USART_RX/cmake-build-debug"/>
+				<Option output="D:/MyStm/9-1 USART/cmake-build-debug/stm32.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/MyStm/9-1 USART/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,7 +52,7 @@
 					<Add option="-DDEBUG"/>
 					<Add option="-DUSE_STDPERIPH_DRIVER"/>
 					<Add option="-DSTM32F10x_MD"/>
-					<Add directory="D:/MyStm/9-1 USART_RX/Clion/Inc"/>
+					<Add directory="D:/MyStm/9-1 USART/Clion/Inc"/>
 					<Add directory="d:\myconfigure\gcc-arm-none-eabi\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
 					<Add directory="d:\myconfigure\gcc-arm-none-eabi\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
 					<Add directory="d:\myconfigure\gcc-arm-none-eabi\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/backward"/>
@@ -61,256 +61,262 @@
 					<Add directory="d:\myconfigure\gcc-arm-none-eabi\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 stm32.elf/fast"/>
-					<CompileFile command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 stm32.elf/fast"/>
+					<CompileFile command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/MyStm/9-1 USART_RX/cmake-build-debug"/>
+				<Option working_dir="D:/MyStm/9-1 USART/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/MyStm/9-1 USART_RX/cmake-build-debug"/>
+				<Option working_dir="D:/MyStm/9-1 USART/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MYSOFT~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/MyStm/9-1 USART/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/Buzzer.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/Buzzer.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/Delay.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/Delay.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/Key.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/Key.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/LED.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/LED.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/LightSensor.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/LightSensor.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/OLED.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/OLED.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/OLED_Font.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/OLED_Font.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/Timer.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/Serial.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/core_cm3.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/Timer.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/misc.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/core_cm3.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/misc.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_adc.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_bkp.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_adc.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_can.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_bkp.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_cec.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_can.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_conf.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_cec.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_crc.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_conf.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_dac.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_crc.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_dbgmcu.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_dac.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_dma.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_dbgmcu.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_exti.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_dma.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_flash.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_exti.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_fsmc.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_flash.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_gpio.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_fsmc.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_i2c.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_gpio.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_it.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_i2c.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_iwdg.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_it.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_pwr.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_iwdg.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_rcc.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_pwr.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_rtc.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_rcc.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_sdio.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_rtc.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_spi.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_sdio.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_tim.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_spi.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_usart.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_tim.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/stm32f10x_wwdg.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_usart.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Inc/system_stm32f10x.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/stm32f10x_wwdg.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/Buzzer.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Inc/system_stm32f10x.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/Delay.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/Buzzer.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/Key.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/Delay.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/LED.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/Key.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/LightSensor.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/LED.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/OLED.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/LightSensor.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/Timer.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/OLED.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/core_cm3.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/Serial.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/main.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/Timer.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/misc.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/core_cm3.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_adc.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/main.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_bkp.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/misc.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_can.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_adc.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_cec.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_bkp.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_crc.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_can.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_dac.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_cec.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_dbgmcu.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_crc.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_dma.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_dac.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_exti.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_dbgmcu.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_flash.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_dma.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_fsmc.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_exti.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_gpio.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_flash.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_i2c.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_fsmc.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_it.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_gpio.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_iwdg.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_i2c.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_pwr.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_it.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_rcc.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_iwdg.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_rtc.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_pwr.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_sdio.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_rcc.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_spi.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_rtc.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_tim.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_sdio.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_usart.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_spi.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/stm32f10x_wwdg.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_tim.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Clion/Src/system_stm32f10x.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_usart.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Hardware/Serial.c">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/stm32f10x_wwdg.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/Hardware/Serial.h">
+		<Unit filename="D:/MyStm/9-1 USART/Clion/Src/system_stm32f10x.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/STM32F103C8TX_FLASH.ld">
+		<Unit filename="D:/MyStm/9-1 USART/Hardware/Serial.c">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/User/main.c">
+		<Unit filename="D:/MyStm/9-1 USART/Hardware/Serial.h">
 			<Option target="stm32.elf"/>
 		</Unit>
-		<Unit filename="D:/MyStm/9-1 USART_RX/CMakeLists.txt">
+		<Unit filename="D:/MyStm/9-1 USART/STM32F103C8TX_FLASH.ld">
+			<Option target="stm32.elf"/>
+		</Unit>
+		<Unit filename="D:/MyStm/9-1 USART/User/main.c">
+			<Option target="stm32.elf"/>
+		</Unit>
+		<Unit filename="D:/MyStm/9-1 USART/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

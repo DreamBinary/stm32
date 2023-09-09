@@ -56,10 +56,10 @@ RM = "D:\Mysoftware_setup\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\MyStm\9-1 USART_RX"
+CMAKE_SOURCE_DIR = "D:\MyStm\9-1 USART"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\MyStm\9-1 USART_RX\cmake-build-debug"
+CMAKE_BINARY_DIR = "D:\MyStm\9-1 USART\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\MyStm\9-1 USART_RX\cmake-build-debug\CMakeFiles" "D:\MyStm\9-1 USART_RX\cmake-build-debug\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\MyStm\9-1 USART\cmake-build-debug\CMakeFiles" "D:\MyStm\9-1 USART\cmake-build-debug\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\MyStm\9-1 USART_RX\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\MyStm\9-1 USART\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -271,6 +271,30 @@ Clion/Src/OLED.s: Clion/Src/OLED.c.s
 Clion/Src/OLED.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\stm32.elf.dir\build.make CMakeFiles/stm32.elf.dir/Clion/Src/OLED.c.s
 .PHONY : Clion/Src/OLED.c.s
+
+Clion/Src/Serial.obj: Clion/Src/Serial.c.obj
+.PHONY : Clion/Src/Serial.obj
+
+# target to build an object file
+Clion/Src/Serial.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stm32.elf.dir\build.make CMakeFiles/stm32.elf.dir/Clion/Src/Serial.c.obj
+.PHONY : Clion/Src/Serial.c.obj
+
+Clion/Src/Serial.i: Clion/Src/Serial.c.i
+.PHONY : Clion/Src/Serial.i
+
+# target to preprocess a source file
+Clion/Src/Serial.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stm32.elf.dir\build.make CMakeFiles/stm32.elf.dir/Clion/Src/Serial.c.i
+.PHONY : Clion/Src/Serial.c.i
+
+Clion/Src/Serial.s: Clion/Src/Serial.c.s
+.PHONY : Clion/Src/Serial.s
+
+# target to generate assembly for a file
+Clion/Src/Serial.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stm32.elf.dir\build.make CMakeFiles/stm32.elf.dir/Clion/Src/Serial.c.s
+.PHONY : Clion/Src/Serial.c.s
 
 Clion/Src/Timer.obj: Clion/Src/Timer.c.obj
 .PHONY : Clion/Src/Timer.obj
@@ -1019,6 +1043,9 @@ help:
 	@echo ... Clion/Src/OLED.obj
 	@echo ... Clion/Src/OLED.i
 	@echo ... Clion/Src/OLED.s
+	@echo ... Clion/Src/Serial.obj
+	@echo ... Clion/Src/Serial.i
+	@echo ... Clion/Src/Serial.s
 	@echo ... Clion/Src/Timer.obj
 	@echo ... Clion/Src/Timer.i
 	@echo ... Clion/Src/Timer.s

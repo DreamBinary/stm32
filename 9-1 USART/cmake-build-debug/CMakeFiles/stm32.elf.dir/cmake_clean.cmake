@@ -11,6 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/stm32.elf.dir/Clion/Src/LightSensor.c.obj.d"
   "CMakeFiles/stm32.elf.dir/Clion/Src/OLED.c.obj"
   "CMakeFiles/stm32.elf.dir/Clion/Src/OLED.c.obj.d"
+  "CMakeFiles/stm32.elf.dir/Clion/Src/Serial.c.obj"
+  "CMakeFiles/stm32.elf.dir/Clion/Src/Serial.c.obj.d"
   "CMakeFiles/stm32.elf.dir/Clion/Src/Timer.c.obj"
   "CMakeFiles/stm32.elf.dir/Clion/Src/Timer.c.obj.d"
   "CMakeFiles/stm32.elf.dir/Clion/Src/core_cm3.c.obj"

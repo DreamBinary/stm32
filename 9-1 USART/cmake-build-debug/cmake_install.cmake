@@ -1,4 +1,4 @@
-# Install script for directory: D:/MyStm/9-1 USART_RX
+# Install script for directory: D:/MyStm/9-1 USART
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/MyStm/9-1 USART_RX/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/MyStm/9-1 USART/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
