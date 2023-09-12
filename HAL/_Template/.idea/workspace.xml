@@ -21,45 +21,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.vscode/c_cpp_properties.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3cc74cf99949a25d2f70.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-88417ba32d92b54af9a6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6c2c42c83a790722994d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-09T11-47-40-0262.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/reply/target-stm32.elf-Debug-d8f2ef61ff3a5eae097e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-af2dad9bb66845c0b0f2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/3.26.4/CMakeASMCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/stm32.elf.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/stm32.elf.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/stm32.elf.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/stm32.elf.dir/compiler_depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/stm32.elf.dir/compiler_depend.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/stm32.elf.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/stm32.elf.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/stm32.elf.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/stm32.elf.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Inc/OLED.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Inc/OLED_Font.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-dd53feafadfbadc0b44a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-933e03ca8e85f1da979e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0c1410746015d4eb83ef.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-11T01-56-03-0737.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/.cmake/api/v1/reply/target-stm32.elf-Debug-6db5f02c55471195c645.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeASMCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OLED/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../OLED/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../OLED/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h" beforeDir="false" afterPath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeASMCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,34 +91,44 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2VCv6FPgFrd0xbztooXoBfC3dkR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/MyStm/HAL/_Template&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.cidr.embedded.config&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/MyStm/HAL/_Template/Core/Src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.cidr.embedded.config",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyStm\HAL\_Template\Core\Src" />
+      <recent name="D:\MyStm\HAL\_Template\Core\Inc" />
       <recent name="D:\MyC\stm" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="stm" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm" TARGET_NAME="stm.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="stm" RUN_TARGET_NAME="stm.elf">
       <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\MyStm\HAL\_Template\config\stlink.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
         <debugger kind="GDB" isBundled="true" />
@@ -130,6 +149,7 @@
       <workItem from="1694352723057" duration="688000" />
       <workItem from="1694353617355" duration="34000" />
       <workItem from="1694353682383" duration="4000" />
+      <workItem from="1694515885570" duration="235000" />
     </task>
     <servers />
   </component>

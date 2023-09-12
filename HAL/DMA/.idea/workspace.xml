@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="stm" targetName="stm.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../_Template/Core/Inc/OLED.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_Template/Core/Inc/OLED_Font.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-dd53feafadfbadc0b44a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-933e03ca8e85f1da979e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0c1410746015d4eb83ef.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-11T01-56-03-0737.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/.cmake/api/v1/reply/target-stm32.elf-Debug-6db5f02c55471195c645.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeASMCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-2 TIM_1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8-1 DMA/Project.uvguix.16477" beforeDir="false" afterPath="$PROJECT_DIR$/../../8-1 DMA/Project.uvguix.16477" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/.idea/stm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/.mxproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/CMakeLists_template.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Inc/main.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Inc/stm32f1xx_hal_conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Inc/stm32f1xx_it.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Src/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Src/stm32f1xx_hal_msp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Src/stm32f1xx_it.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Src/syscalls.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Src/sysmem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Src/system_stm32f1xx.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Core/Startup/startup_stm32f103c8tx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Device/ST/STM32F1xx/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/cmsis_armcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/cmsis_armclang.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/cmsis_compiler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/cmsis_gcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/cmsis_iccarm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/cmsis_version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_armv8mbl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_armv8mml.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_cm0.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_cm0plus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_cm1.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_cm23.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_cm3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_cm33.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_cm4.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_cm7.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_sc000.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/core_sc300.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/mpu_armv7.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/mpu_armv8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/Include/tz_context.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/CMSIS/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_cortex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_exti.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_system.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/STM32F103C8TX_FLASH.ld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeASMCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/config/stlink.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OLED/stm.ioc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/Core/Src/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VCv6FPgFrd0xbztooXoBfC3dkR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/MyStm/HAL/DMA/Core/Src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.cidr.embedded.config",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyStm\HAL\DMA\Core\Src" />
+      <recent name="D:\MyStm\HAL\DMA\Core\Inc" />
+      <recent name="D:\MyStm\HAL\_Template\Core\Src" />
+      <recent name="D:\MyStm\HAL\_Template\Core\Inc" />
+      <recent name="D:\MyC\stm" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stm" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm" TARGET_NAME="stm.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="stm" RUN_TARGET_NAME="stm.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\MyStm\HAL\_Template\config\stlink.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="" />
+      <created>1694352699187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694352699187</updated>
+      <workItem from="1694352723057" duration="688000" />
+      <workItem from="1694353617355" duration="34000" />
+      <workItem from="1694353682383" duration="4000" />
+      <workItem from="1694515885570" duration="235000" />
+      <workItem from="1694516157561" duration="2859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>
