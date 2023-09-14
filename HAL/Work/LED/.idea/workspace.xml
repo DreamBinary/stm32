@@ -20,9 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../8-1 DMA/Project.uvguix.16477" beforeDir="false" afterPath="$PROJECT_DIR$/../../../8-1 DMA/Project.uvguix.16477" afterDir="false" />
-    </list>
+    <list default="true" id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +101,7 @@
       <workItem from="1694353617355" duration="34000" />
       <workItem from="1694353682383" duration="4000" />
       <workItem from="1694515885570" duration="235000" />
-      <workItem from="1694681395232" duration="3051000" />
+      <workItem from="1694681395232" duration="3490000" />
     </task>
     <servers />
   </component>
