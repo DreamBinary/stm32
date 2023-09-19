@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="stm" targetName="stm.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c50527baf7864711d2aa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-9d5999875cfc717fa434.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-929eab74c2859b965a21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-11T08-56-35-0296.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/target-stm32.elf-Debug-f16f7f5762385c3a1062.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-af2dad9bb66845c0b0f2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeASMCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/stm32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/stm32.elf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/stm32.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Clion/Inc/MPU6050.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Clion/Inc/MPU6050.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Hardware/MPU6050.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Hardware/MPU6050.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Listings/Project.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Listings/Project.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.axf" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.axf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.build_log.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.build_log.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project_Target 1.dep" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project_Target 1.dep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/buzzer.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/buzzer.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/core_cm3.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/core_cm3.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/delay.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/delay.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/key.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/key.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/led.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/led.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/lightsensor.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/lightsensor.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/main.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/main.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/misc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/misc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/mpu6050.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/mpu6050.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/mpu6050.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/mpu6050.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/myi2c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/myi2c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/oled.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/oled.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_adc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_adc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_bkp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_bkp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_can.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_can.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_cec.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_cec.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_crc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_crc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dac.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dac.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dbgmcu.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dbgmcu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dma.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dma.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_exti.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_exti.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_flash.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_flash.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_fsmc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_fsmc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_gpio.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_gpio.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_i2c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_i2c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_it.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_it.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_iwdg.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_iwdg.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_pwr.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_pwr.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_rcc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_rcc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_rtc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_rtc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_sdio.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_sdio.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_spi.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_spi.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_tim.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_tim.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_usart.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_usart.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_wwdg.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_wwdg.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/system_stm32f10x.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/system_stm32f10x.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/timer.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/timer.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Project.uvguix.16477" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Project.uvguix.16477" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/User/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/User/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12-2 RTC/Project.uvguix.16477" beforeDir="false" afterPath="$PROJECT_DIR$/../../12-2 RTC/Project.uvguix.16477" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/stm32.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/stm32.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/stm32.elf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/stm32.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/.mxproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/Core/Inc/stm32f1xx_hal_conf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/Core/Inc/stm32f1xx_hal_conf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/Core/Src/stm32f1xx_hal_msp.c" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/Core/Src/stm32f1xx_hal_msp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/cache-v2-7086bd3a395d71fa758d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ad42756152fdac13e00a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8de2d9efd3d3292787bb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-12T10-58-22-0328.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/target-stm.elf-Debug-6af753b21104cb38aef4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-af2dad9bb66845c0b0f2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeASMCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/Delay.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/MyDMA.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/OLED.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/syscalls.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/sysmem.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/system_stm32f1xx.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/stm.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/stm.elf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/stm.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/stm.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DMA/stm.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/stm.ioc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LED_Twinkle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LED_Twinkle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/.cmake/api/v1/reply/cache-v2-685d664a5fef5663eddb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b00c0b009e5b2fe57767.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-12T10-54-45-0681.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/Delay.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/OLED.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/syscalls.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/sysmem.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/system_stm32f1xx.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/build.ninja" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VCv6FPgFrd0xbztooXoBfC3dkR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MyStm/HAL/I2C/Core/Inc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyStm\HAL\I2C\Core\Inc" />
+      <recent name="D:\MyStm\HAL\_Template\Core\Src" />
+      <recent name="D:\MyStm\HAL\_Template\Core\Inc" />
+      <recent name="D:\MyC\stm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyStm\HAL\I2C\Core\Inc" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stm" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm" TARGET_NAME="stm.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="stm" RUN_TARGET_NAME="stm.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\MyStm\HAL\_Template\config\stlink.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="" />
+      <created>1694352699187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694352699187</updated>
+      <workItem from="1694352723057" duration="688000" />
+      <workItem from="1694353617355" duration="34000" />
+      <workItem from="1694353682383" duration="4000" />
+      <workItem from="1694515885570" duration="235000" />
+      <workItem from="1695125352376" duration="1612000" />
+      <workItem from="1695126988693" duration="3534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

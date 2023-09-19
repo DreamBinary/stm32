@@ -18,9 +18,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "OLED.h"
-#include "MyDMA.h"
-#include "Delay.h"
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -49,6 +47,8 @@
 
 /* Private function prototypes -----------------------------------------------*/
 void SystemClock_Config(void);
+
+static void MX_GPIO_Init(void);
 /* USER CODE BEGIN PFP */
 
 /* USER CODE END PFP */
@@ -86,12 +86,15 @@ int main(void) {
     /* USER CODE END SysInit */
 
     /* Initialize all configured peripherals */
+    MX_GPIO_Init();
     /* USER CODE BEGIN 2 */
 
     OLED_ShowString(1, 1, "DataA");
     OLED_ShowString(3, 1, "DataB");
     OLED_ShowHexNum(1, 8, (uint32_t) DataA, 8);
     OLED_ShowHexNum(3, 8, (uint32_t) DataB, 8);
+
+    HAL_I2C_Mem_Write()
     /* USER CODE END 2 */
 
     /* Infinite loop */
@@ -163,6 +166,22 @@ void SystemClock_Config(void) {
     if (HAL_RCC_ClockConfig(&RCC_ClkInitStruct, FLASH_LATENCY_0) != HAL_OK) {
         Error_Handler();
     }
+}
+
+/**
+  * @brief GPIO Initialization Function
+  * @param None
+  * @retval None
+  */
+static void MX_GPIO_Init(void) {
+/* USER CODE BEGIN MX_GPIO_Init_1 */
+/* USER CODE END MX_GPIO_Init_1 */
+
+    /* GPIO Ports Clock Enable */
+    __HAL_RCC_GPIOB_CLK_ENABLE();
+
+/* USER CODE BEGIN MX_GPIO_Init_2 */
+/* USER CODE END MX_GPIO_Init_2 */
 }
 
 /* USER CODE BEGIN 4 */

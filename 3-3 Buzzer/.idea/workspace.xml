@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="899a4683-d06e-4553-85cd-9edb41788732" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../12-2 RTC/Project.uvguix.16477" beforeDir="false" afterPath="$PROJECT_DIR$/../12-2 RTC/Project.uvguix.16477" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HAL/DMA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/reply/cache-v2-7086bd3a395d71fa758d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ad42756152fdac13e00a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8de2d9efd3d3292787bb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-12T10-58-22-0328.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/reply/target-stm.elf-Debug-6af753b21104cb38aef4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-af2dad9bb66845c0b0f2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeASMCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/Delay.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/MyDMA.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/OLED.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/syscalls.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/sysmem.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/system_stm32f1xx.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/stm.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/stm.elf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/stm.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/DMA/cmake-build-debug/stm.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAL/LED_Twinkle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HAL/LED_Twinkle/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2VbZksWdV03PNMxXTCqELiTwzmN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/MyStm/3-3 Buzzer",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="899a4683-d06e-4553-85cd-9edb41788732" name="Changes" comment="" />
+      <created>1695106886134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695106886134</updated>
+      <workItem from="1695106887170" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

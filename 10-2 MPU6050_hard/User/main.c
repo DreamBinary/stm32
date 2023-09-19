@@ -16,18 +16,20 @@ int main(void) {
 //    MyI2C_Stop();
 //    OLED_ShowNum(1, 1, ACK, 3);
 
-//    MPU6050_Init();
+    MPU6050_Init();
 //    MPU6050_WriteReg(0x6B, 0x00); // 解除休眠状态
 //    MPU6050_WriteReg(0x19, 0xAA); // 采样率 1kHz
 //    uint8_t id = MPU6050_ReadReg(0x19);
 //    OLED_ShowHexNum(1, 1, id, 2 );
+
+    OLED_ShowNum(1, 1, MPU6050_GetID(), 10);
     while (1) {
-        MPU6050_GetData(&AX, &AY, &AZ, &GX, &GY, &GZ);
-        OLED_ShowSignedNum(2, 1, AX, 5);
-        OLED_ShowSignedNum(3, 1, AY, 5);
-        OLED_ShowSignedNum(4, 1, AZ, 5);
-        OLED_ShowSignedNum(2, 8, GX, 5);
-        OLED_ShowSignedNum(3, 8, GY, 5);
-        OLED_ShowSignedNum(4, 8, GZ, 5);
+//        MPU6050_GetData(&AX, &AY, &AZ, &GX, &GY, &GZ);
+//        OLED_ShowSignedNum(2, 1, AX, 5);
+//        OLED_ShowSignedNum(3, 1, AY, 5);
+//        OLED_ShowSignedNum(4, 1, AZ, 5);
+//        OLED_ShowSignedNum(2, 8, GX, 5);
+//        OLED_ShowSignedNum(3, 8, GY, 5);
+//        OLED_ShowSignedNum(4, 8, GZ, 5);
     }
 }

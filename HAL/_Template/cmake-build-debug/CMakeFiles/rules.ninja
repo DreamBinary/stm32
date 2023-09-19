@@ -52,7 +52,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "D:\Mysoftware_setup\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\MyStm\HAL\_Template -BD:\MyStm\HAL\_Template\cmake-build-debug
+  command = "D:\Mysoftware_setup\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\MyStm\HAL\_Template -BD:\MyStm\HAL\_Template\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 
@@ -61,7 +61,7 @@ rule RERUN_CMAKE
 # Rule for cleaning all built files.
 
 rule CLEAN
-  command = "D:\Mysoftware_setup\CLion 2023.2.1\bin\ninja\win\x64\ninja.exe" $FILE_ARG -t clean $TARGETS
+  command = "D:\Mysoftware_setup\JetBrains\CLion 2023.2.2\bin\ninja\win\x64\ninja.exe" $FILE_ARG -t clean $TARGETS
   description = Cleaning all built files...
 
 
@@ -69,6 +69,6 @@ rule CLEAN
 # Rule for printing all primary targets available.
 
 rule HELP
-  command = "D:\Mysoftware_setup\CLion 2023.2.1\bin\ninja\win\x64\ninja.exe" -t targets
+  command = "D:\Mysoftware_setup\JetBrains\CLion 2023.2.2\bin\ninja\win\x64\ninja.exe" -t targets
   description = All primary targets available:
 
