@@ -21,55 +21,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../7-1 ADC_One/Project.uvguix.16477" beforeDir="false" afterPath="$PROJECT_DIR$/../../7-1 ADC_One/Project.uvguix.16477" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Beep/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/.mxproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/Core/Inc/stm32f1xx_hal_conf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/Core/Inc/stm32f1xx_hal_conf.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/Core/Src/Delay.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/Core/Src/Delay.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Beep/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/Core/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/.cmake/api/v1/reply/cache-v2-685d664a5fef5663eddb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b00c0b009e5b2fe57767.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b153d6f2a599569338e3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-12T10-54-45-0681.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/.cmake/api/v1/reply/target-stm.elf-Debug-9de5a89f5b3680f4f695.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/Delay.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/OLED.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/syscalls.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/sysmem.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/system_stm32f1xx.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/stm.elf" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/stm.elf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/cmake-build-debug/stm.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/cmake-build-debug/stm.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Beep/stm.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../Beep/stm.ioc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LED_Twinkle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LED_Twinkle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,24 +54,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/MyStm/HAL/DMA",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.cidr.embedded.config",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MyStm/HAL/DMA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.cidr.embedded.config&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\MyStm\HAL\DMA\Core\Src" />
@@ -157,6 +112,9 @@
       <workItem from="1695123165764" duration="58000" />
       <workItem from="1695125215339" duration="6000" />
       <workItem from="1695282294431" duration="6000" />
+      <workItem from="1695712569658" duration="1181000" />
+      <workItem from="1695878953515" duration="24000" />
+      <workItem from="1695879049041" duration="4000" />
     </task>
     <servers />
   </component>

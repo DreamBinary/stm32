@@ -88,7 +88,7 @@ int main(void) {
     /* Initialize all configured peripherals */
     MX_GPIO_Init();
     /* USER CODE BEGIN 2 */
-
+    
     OLED_ShowString(1, 1, "DataA");
     OLED_ShowString(3, 1, "DataB");
     OLED_ShowHexNum(1, 8, (uint32_t) DataA, 8);
