@@ -21,230 +21,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../6-3 BreathLED/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-3 BreathLED/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../6-3 BreathLED/Hardware/PWM.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-3 BreathLED/Hardware/PWM.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../6-3 BreathLED/Project.uvguix.16477" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-3 BreathLED/Project.uvguix.16477" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../6-3 BreathLED/Project.uvoptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../6-3 BreathLED/Project.uvoptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LED_Twinkle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LED_Twinkle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/.cproject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/.idea/stm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/.mxproject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/CMakeLists_template.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Inc/Delay.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Inc/OLED.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Inc/OLED_Font.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Inc/main.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Inc/stm32f1xx_hal_conf.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Inc/stm32f1xx_it.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Src/Delay.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Src/OLED.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Src/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Src/stm32f1xx_hal_msp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Src/stm32f1xx_it.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Src/syscalls.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Src/sysmem.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Src/system_stm32f1xx.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Core/Startup/startup_stm32f103c8tx.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Device/ST/STM32F1xx/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/cmsis_armcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/cmsis_armclang.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/cmsis_compiler.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/cmsis_gcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/cmsis_iccarm.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/cmsis_version.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_armv8mbl.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_armv8mml.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_cm0.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_cm0plus.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_cm1.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_cm23.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_cm3.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_cm33.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_cm4.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_cm7.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_sc000.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/core_sc300.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/mpu_armv7.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/mpu_armv8.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/Include/tz_context.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/CMSIS/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_cortex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_exti.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_rcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_system.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/STM32F103C8TX_FLASH.ld" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/reply/cache-v2-5030d6af5b503ee001e4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-5955f7a92395d15f7b8e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-fcb3a06c9e0f42d11fa2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-28T05-35-45-0241.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/reply/target-stm.elf-Debug-43821232219bc99eb155.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-af2dad9bb66845c0b0f2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/3.26.4/CMakeASMCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/config/stlink.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SteerEngine/stm.ioc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/.cproject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/.idea/stm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/.mxproject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/CMakeLists_template.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Inc/Delay.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Inc/OLED.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Inc/OLED_Font.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Inc/main.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Inc/stm32f1xx_hal_conf.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Inc/stm32f1xx_it.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Src/Delay.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Src/OLED.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Src/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Src/stm32f1xx_hal_msp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Src/stm32f1xx_it.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Src/syscalls.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Src/sysmem.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Src/system_stm32f1xx.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Core/Startup/startup_stm32f103c8tx.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Device/ST/STM32F1xx/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/cmsis_armcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/cmsis_armclang.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/cmsis_compiler.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/cmsis_gcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/cmsis_iccarm.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/cmsis_version.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_armv8mbl.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_armv8mml.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_cm0.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_cm0plus.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_cm1.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_cm23.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_cm3.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_cm33.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_cm4.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_cm7.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_sc000.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/core_sc300.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/mpu_armv7.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/mpu_armv8.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/Include/tz_context.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/CMSIS/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_cortex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_exti.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_pwr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_rcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_system.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/STM32F103C8TX_FLASH.ld" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/config/stlink.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Work/LED/stm.ioc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/stm.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/stm.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/stm.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/stm.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/stm.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/stm.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/stm.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/stm.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,7 +68,7 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/MyStm/HAL/LED_Twinkle&quot;,
+    &quot;last_opened_file_path&quot;: &quot;X:/MATERIAL/stm32/HAL_code/31-TIM—通用定时器-输入捕获&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -300,11 +85,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="stm" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm" TARGET_NAME="stm.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="stm" RUN_TARGET_NAME="stm.elf">
       <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\MyStm\HAL\_Template\config\stlink.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
         <debugger kind="GDB" isBundled="true" />
@@ -329,6 +109,9 @@
       <workItem from="1695126162423" duration="22000" />
       <workItem from="1696331232719" duration="4221000" />
       <workItem from="1696335738266" duration="388000" />
+      <workItem from="1696494873057" duration="289000" />
+      <workItem from="1696495397043" duration="1196000" />
+      <workItem from="1696498685085" duration="3000" />
     </task>
     <servers />
   </component>
