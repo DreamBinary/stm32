@@ -1,0 +1,24 @@
+--cpu Cortex-M4.fp
+"kkk\startup_stm32f407xx.o"
+"kkk\system_stm32f4xx.o"
+"kkk\stm32f4xx_hal_cortex.o"
+"kkk\stm32f4xx_hal_flash_ramfunc.o"
+"kkk\stm32f4xx_hal_rcc_ex.o"
+"kkk\stm32f4xx_hal_pwr_ex.o"
+"kkk\stm32f4xx_hal_gpio.o"
+"kkk\stm32f4xx_hal_tim.o"
+"kkk\stm32f4xx_hal_flash.o"
+"kkk\stm32f4xx_hal_flash_ex.o"
+"kkk\stm32f4xx_hal.o"
+"kkk\stm32f4xx_hal_rcc.o"
+"kkk\stm32f4xx_hal_dma_ex.o"
+"kkk\stm32f4xx_hal_tim_ex.o"
+"kkk\stm32f4xx_hal_dma.o"
+"kkk\stm32f4xx_hal_pwr.o"
+"kkk\stm32f4xx_hal_msp.o"
+"kkk\stm32f4xx_it.o"
+"kkk\main.o"
+--library_type=microlib --strict --scatter "kkk\kkk.sct"
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "kkk.map" -o kkk\kkk.axf
