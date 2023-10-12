@@ -47,11 +47,10 @@
 
 /** Pinout Configuration
 */
-void MX_GPIO_Init(void)
-{
+void MX_GPIO_Init(void) {
 
-  /* GPIO Ports Clock Enable */
-  __GPIOB_CLK_ENABLE();
+    /* GPIO Ports Clock Enable */
+    __GPIOB_CLK_ENABLE();
 
 }
 

@@ -1,0 +1,15 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/d/MyStm/HAL/Beep/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/d/MyStm/HAL/Beep -B /mnt/d/MyStm/HAL/Beep/cmake-build-debug"
+CMake Error at CMakeLists.txt:4 (cmake_minimum_required):
+  CMake 3.26 or higher is required.  You are running version 3.22.1
+
+
+-- Configuring incomplete, errors occurred!
+
+Cannot get compiler information:
+	Compiler exited with error code 1: D:\MyConfigure\gcc-arm-none-eabi\bin\arm-none-eabi-gcc.exe -xc -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -fpch-preprocess -v -dD -E
+	arm-none-eabi-gcc.exe: error: /mnt/x/Temp/response-file4466968594826961311: No such file or directory
+	arm-none-eabi-gcc.exe: error: /mnt/x/Temp/compiler-file8522661927191884300: No such file or directory
+	arm-none-eabi-gcc.exe: fatal error: no input files
+	compilation terminated.
+	
+	

@@ -21,9 +21,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../SS/fiv/Inc/Beep.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS/fiv/Src/Beep.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/MyStm/HAL/DMA&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MyStm/HAL/Beep&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -106,6 +106,9 @@
       <workItem from="1695708406644" duration="520000" />
       <workItem from="1695712553784" duration="611000" />
       <workItem from="1695715081415" duration="7000" />
+      <workItem from="1697024354771" duration="333000" />
+      <workItem from="1697085932417" duration="7000" />
+      <workItem from="1697106935032" duration="70000" />
     </task>
     <servers />
   </component>

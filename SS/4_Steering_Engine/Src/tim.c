@@ -44,80 +44,75 @@
 TIM_HandleTypeDef htim12;
 
 /* TIM12 init function */
-void MX_TIM12_Init(void)
-{
-  TIM_ClockConfigTypeDef sClockSourceConfig;
-  TIM_OC_InitTypeDef sConfigOC;
+void MX_TIM12_Init(void) {
+    TIM_ClockConfigTypeDef sClockSourceConfig;
+    TIM_OC_InitTypeDef sConfigOC;
 
-  htim12.Instance = TIM12;
-  htim12.Init.Prescaler = 2;
-  htim12.Init.CounterMode = TIM_COUNTERMODE_UP;
-  htim12.Init.Period = 500;
-  htim12.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;
-  HAL_TIM_Base_Init(&htim12);
+    htim12.Instance = TIM12;
+    htim12.Init.Prescaler = 2;
+    htim12.Init.CounterMode = TIM_COUNTERMODE_UP;
+    htim12.Init.Period = 500;
+    htim12.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;
+    HAL_TIM_Base_Init(&htim12);
 
-  sClockSourceConfig.ClockSource = TIM_CLOCKSOURCE_INTERNAL;
-  HAL_TIM_ConfigClockSource(&htim12, &sClockSourceConfig);
+    sClockSourceConfig.ClockSource = TIM_CLOCKSOURCE_INTERNAL;
+    HAL_TIM_ConfigClockSource(&htim12, &sClockSourceConfig);
 
-  HAL_TIM_PWM_Init(&htim12);
+    HAL_TIM_PWM_Init(&htim12);
 
-  sConfigOC.OCMode = TIM_OCMODE_PWM1;
-  sConfigOC.Pulse = 50;
-  sConfigOC.OCPolarity = TIM_OCPOLARITY_HIGH;
-  sConfigOC.OCFastMode = TIM_OCFAST_DISABLE;
-  HAL_TIM_PWM_ConfigChannel(&htim12, &sConfigOC, TIM_CHANNEL_2);
+    sConfigOC.OCMode = TIM_OCMODE_PWM1;
+    sConfigOC.Pulse = 50;
+    sConfigOC.OCPolarity = TIM_OCPOLARITY_HIGH;
+    sConfigOC.OCFastMode = TIM_OCFAST_DISABLE;
+    HAL_TIM_PWM_ConfigChannel(&htim12, &sConfigOC, TIM_CHANNEL_2);
 
 }
 
-void HAL_TIM_Base_MspInit(TIM_HandleTypeDef* htim_base)
-{
+void HAL_TIM_Base_MspInit(TIM_HandleTypeDef *htim_base) {
 
-  GPIO_InitTypeDef GPIO_InitStruct;
-  if(htim_base->Instance==TIM12)
-  {
-  /* USER CODE BEGIN TIM12_MspInit 0 */
+    GPIO_InitTypeDef GPIO_InitStruct;
+    if (htim_base->Instance == TIM12) {
+        /* USER CODE BEGIN TIM12_MspInit 0 */
 
-  /* USER CODE END TIM12_MspInit 0 */
-    /* Peripheral clock enable */
-    __TIM12_CLK_ENABLE();
-  
-    /**TIM12 GPIO Configuration    
-    PB15     ------> TIM12_CH2 
-    */
-    GPIO_InitStruct.Pin = GPIO_PIN_15;
-    GPIO_InitStruct.Mode = GPIO_MODE_AF_PP;
-    GPIO_InitStruct.Pull = GPIO_NOPULL;
-    GPIO_InitStruct.Speed = GPIO_SPEED_LOW;
-    GPIO_InitStruct.Alternate = GPIO_AF9_TIM12;
-    HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
+        /* USER CODE END TIM12_MspInit 0 */
+        /* Peripheral clock enable */
+        __TIM12_CLK_ENABLE();
 
-  /* USER CODE BEGIN TIM12_MspInit 1 */
+        /**TIM12 GPIO Configuration
+        PB15     ------> TIM12_CH2
+        */
+        GPIO_InitStruct.Pin = GPIO_PIN_15;
+        GPIO_InitStruct.Mode = GPIO_MODE_AF_PP;
+        GPIO_InitStruct.Pull = GPIO_NOPULL;
+        GPIO_InitStruct.Speed = GPIO_SPEED_LOW;
+        GPIO_InitStruct.Alternate = GPIO_AF9_TIM12;
+        HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
 
-  /* USER CODE END TIM12_MspInit 1 */
-  }
+        /* USER CODE BEGIN TIM12_MspInit 1 */
+
+        /* USER CODE END TIM12_MspInit 1 */
+    }
 }
 
-void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef* htim_base)
-{
+void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef *htim_base) {
 
-  if(htim_base->Instance==TIM12)
-  {
-  /* USER CODE BEGIN TIM12_MspDeInit 0 */
+    if (htim_base->Instance == TIM12) {
+        /* USER CODE BEGIN TIM12_MspDeInit 0 */
 
-  /* USER CODE END TIM12_MspDeInit 0 */
-    /* Peripheral clock disable */
-    __TIM12_CLK_DISABLE();
-  
-    /**TIM12 GPIO Configuration    
-    PB15     ------> TIM12_CH2 
-    */
-    HAL_GPIO_DeInit(GPIOB, GPIO_PIN_15);
+        /* USER CODE END TIM12_MspDeInit 0 */
+        /* Peripheral clock disable */
+        __TIM12_CLK_DISABLE();
 
-  }
-  /* USER CODE BEGIN TIM12_MspDeInit 1 */
+        /**TIM12 GPIO Configuration
+        PB15     ------> TIM12_CH2
+        */
+        HAL_GPIO_DeInit(GPIOB, GPIO_PIN_15);
 
-  /* USER CODE END TIM12_MspDeInit 1 */
-} 
+    }
+    /* USER CODE BEGIN TIM12_MspDeInit 1 */
+
+    /* USER CODE END TIM12_MspDeInit 1 */
+}
 
 /* USER CODE BEGIN 1 */
 
