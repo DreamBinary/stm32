@@ -5,7 +5,7 @@
   *                      of the TIM instances.
   ******************************************************************************
   *
-  * COPYRIGHT(c) 2015 STMicroelectronics
+  * COPYRIGHT(c) 2023 STMicroelectronics
   *
   * Redistribution and use in source and binary forms, with or without modification,
   * are permitted provided that the following conditions are met:
@@ -35,8 +35,6 @@
 /* Includes ------------------------------------------------------------------*/
 #include "tim.h"
 
-#include "gpio.h"
-
 /* USER CODE BEGIN 0 */
 
 /* USER CODE END 0 */
@@ -54,32 +52,59 @@ void MX_TIM12_Init(void)
   htim12.Init.CounterMode = TIM_COUNTERMODE_UP;
   htim12.Init.Period = 20000;
   htim12.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;
-  HAL_TIM_Base_Init(&htim12);
+  if (HAL_TIM_Base_Init(&htim12) != HAL_OK)
+  {
+    Error_Handler();
+  }
 
   sClockSourceConfig.ClockSource = TIM_CLOCKSOURCE_INTERNAL;
-  HAL_TIM_ConfigClockSource(&htim12, &sClockSourceConfig);
+  if (HAL_TIM_ConfigClockSource(&htim12, &sClockSourceConfig) != HAL_OK)
+  {
+    Error_Handler();
+  }
 
-  HAL_TIM_PWM_Init(&htim12);
+  if (HAL_TIM_PWM_Init(&htim12) != HAL_OK)
+  {
+    Error_Handler();
+  }
 
   sConfigOC.OCMode = TIM_OCMODE_PWM1;
   sConfigOC.Pulse = 1000;
   sConfigOC.OCPolarity = TIM_OCPOLARITY_HIGH;
   sConfigOC.OCFastMode = TIM_OCFAST_DISABLE;
-  HAL_TIM_PWM_ConfigChannel(&htim12, &sConfigOC, TIM_CHANNEL_1);
+  if (HAL_TIM_PWM_ConfigChannel(&htim12, &sConfigOC, TIM_CHANNEL_1) != HAL_OK)
+  {
+    Error_Handler();
+  }
+
+  HAL_TIM_MspPostInit(&htim12);
 
 }
 
-void HAL_TIM_Base_MspInit(TIM_HandleTypeDef* htim_base)
+void HAL_TIM_Base_MspInit(TIM_HandleTypeDef* tim_baseHandle)
 {
 
-  GPIO_InitTypeDef GPIO_InitStruct;
-  if(htim_base->Instance==TIM12)
+  if(tim_baseHandle->Instance==TIM12)
   {
   /* USER CODE BEGIN TIM12_MspInit 0 */
 
   /* USER CODE END TIM12_MspInit 0 */
     /* Peripheral clock enable */
-    __TIM12_CLK_ENABLE();
+    __HAL_RCC_TIM12_CLK_ENABLE();
+  /* USER CODE BEGIN TIM12_MspInit 1 */
+
+  /* USER CODE END TIM12_MspInit 1 */
+  }
+}
+void HAL_TIM_MspPostInit(TIM_HandleTypeDef* timHandle)
+{
+
+  GPIO_InitTypeDef GPIO_InitStruct;
+  if(timHandle->Instance==TIM12)
+  {
+  /* USER CODE BEGIN TIM12_MspPostInit 0 */
+
+  /* USER CODE END TIM12_MspPostInit 0 */
   
     /**TIM12 GPIO Configuration    
     PB14     ------> TIM12_CH1 
@@ -87,32 +112,27 @@ void HAL_TIM_Base_MspInit(TIM_HandleTypeDef* htim_base)
     GPIO_InitStruct.Pin = GPIO_PIN_14;
     GPIO_InitStruct.Mode = GPIO_MODE_AF_PP;
     GPIO_InitStruct.Pull = GPIO_NOPULL;
-    GPIO_InitStruct.Speed = GPIO_SPEED_LOW;
+    GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
     GPIO_InitStruct.Alternate = GPIO_AF9_TIM12;
     HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
 
-  /* USER CODE BEGIN TIM12_MspInit 1 */
+  /* USER CODE BEGIN TIM12_MspPostInit 1 */
 
-  /* USER CODE END TIM12_MspInit 1 */
+  /* USER CODE END TIM12_MspPostInit 1 */
   }
+
 }
 
-void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef* htim_base)
+void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef* tim_baseHandle)
 {
 
-  if(htim_base->Instance==TIM12)
+  if(tim_baseHandle->Instance==TIM12)
   {
   /* USER CODE BEGIN TIM12_MspDeInit 0 */
 
   /* USER CODE END TIM12_MspDeInit 0 */
     /* Peripheral clock disable */
-    __TIM12_CLK_DISABLE();
-  
-    /**TIM12 GPIO Configuration    
-    PB14     ------> TIM12_CH1 
-    */
-    HAL_GPIO_DeInit(GPIOB, GPIO_PIN_14);
-
+    __HAL_RCC_TIM12_CLK_DISABLE();
   }
   /* USER CODE BEGIN TIM12_MspDeInit 1 */
 

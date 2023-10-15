@@ -64,6 +64,7 @@ void MX_GPIO_Init(void)
   __HAL_RCC_GPIOF_CLK_ENABLE();
   __HAL_RCC_GPIOH_CLK_ENABLE();
   __HAL_RCC_GPIOE_CLK_ENABLE();
+  __HAL_RCC_GPIOB_CLK_ENABLE();
   __HAL_RCC_GPIOD_CLK_ENABLE();
   __HAL_RCC_GPIOG_CLK_ENABLE();
   __HAL_RCC_GPIOA_CLK_ENABLE();
@@ -93,11 +94,17 @@ void MX_GPIO_Init(void)
 
 /* USER CODE BEGIN 2 */
 void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin) {
-
-    Pen_Point.Key_Sta = Key_Down;
-    HAL_NVIC_ClearPendingIRQ(EXTI9_5_IRQn);
+/*if (GPIO_Pin == GPIO_PIN_9 || GPIO_Pin == GPIO_PIN_11) {
+		HAL_GPIO_TogglePin(GPIOB, GPIO_PIN_15);
+		printf("K3\n");
+	}*/
+    //Pen_Point.Key_Sta = Key_Down;
+//HAL_NVIC_ClearPendingIRQ(EXTI9_5_IRQn);
+	
+	
 
 }
+
 /* USER CODE END 2 */
 
 /**

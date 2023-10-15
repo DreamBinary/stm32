@@ -5,7 +5,7 @@
   *                      of the TIM instances.
   ******************************************************************************
   *
-  * COPYRIGHT(c) 2015 STMicroelectronics
+  * COPYRIGHT(c) 2023 STMicroelectronics
   *
   * Redistribution and use in source and binary forms, with or without modification,
   * are permitted provided that the following conditions are met:
@@ -51,7 +51,12 @@ extern TIM_HandleTypeDef htim12;
 
 /* USER CODE END Private defines */
 
+extern void Error_Handler(void);
+
 void MX_TIM12_Init(void);
+                    
+void HAL_TIM_MspPostInit(TIM_HandleTypeDef *htim);
+                
 
 /* USER CODE BEGIN Prototypes */
 

@@ -51,10 +51,6 @@ uint8_t menu_area(uint16_t x, uint16_t y) {
     return area;
 }
 
-void LED(void const *arg) {
-	HAL_GPIO_TogglePin(GPIOF, GPIO_PIN_10);
-}
-
 void menu_select(uint16_t x, uint16_t y) {
     uint8_t c = menu_area(x, y);
     switch (c) {

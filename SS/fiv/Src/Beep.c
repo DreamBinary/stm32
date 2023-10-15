@@ -1,7 +1,7 @@
 //
 // Created by 16477 on 2023/9/21.
 //
-
+/*
 #include "Beep.h"
 
 void HAL_Delay_us(uint32_t us) {
@@ -49,4 +49,6 @@ void Play_Music(void) {
             Sound((uint32_t) tone[music[i]]);
         }
     }
-}
+}*/
+
+

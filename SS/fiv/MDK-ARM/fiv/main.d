@@ -22,6 +22,8 @@ fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
 fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
 fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
 fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc.h
+fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc_ex.h
 fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
 fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
 fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
@@ -30,6 +32,8 @@ fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_fsmc.h
 fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
 fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
 fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h
+fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 fiv\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 fiv\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
 fiv\main.o: D:\soft\Keil\ARM\ARMCC\Bin\..\include\stddef.h
@@ -47,7 +51,10 @@ fiv\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
 fiv\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
 fiv\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
 fiv\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
+fiv\main.o: ../Inc/adc.h
+fiv\main.o: ../Inc/dma.h
 fiv\main.o: ../Inc/spi.h
+fiv\main.o: ../Inc/tim.h
 fiv\main.o: ../Inc/usart.h
 fiv\main.o: ../Inc/gpio.h
 fiv\main.o: ../Inc/fsmc.h
