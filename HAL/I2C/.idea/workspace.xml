@@ -21,211 +21,803 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b4a426-4863-4447-9f9e-8fdae0019fa3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c50527baf7864711d2aa.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-9d5999875cfc717fa434.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-929eab74c2859b965a21.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-11T08-56-35-0296.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/target-stm32.elf-Debug-f16f7f5762385c3a1062.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-af2dad9bb66845c0b0f2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeASMCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/stm32.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/stm32.elf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-1 MPU6050_soft/cmake-build-debug/stm32.hex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Clion/Inc/MPU6050.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Clion/Inc/MPU6050.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Hardware/MPU6050.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Hardware/MPU6050.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Listings/Project.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Listings/Project.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.axf" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.axf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.build_log.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.build_log.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project_Target 1.dep" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/Project_Target 1.dep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/buzzer.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/buzzer.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/core_cm3.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/core_cm3.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/delay.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/delay.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/key.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/key.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/led.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/led.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/lightsensor.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/lightsensor.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/main.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/main.crf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/main.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/misc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/misc.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/mpu6050.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/mpu6050.crf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/mpu6050.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/mpu6050.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/myi2c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/myi2c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/oled.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/oled.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_adc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_adc.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_bkp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_bkp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_can.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_can.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_cec.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_cec.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_crc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_crc.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dac.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dac.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dbgmcu.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dbgmcu.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dma.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_dma.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_exti.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_exti.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_flash.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_flash.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_fsmc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_fsmc.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_gpio.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_gpio.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_i2c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_i2c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_it.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_it.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_iwdg.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_iwdg.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_pwr.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_pwr.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_rcc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_rcc.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_rtc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_rtc.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_sdio.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_sdio.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_spi.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_spi.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_tim.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_tim.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_usart.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_usart.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_wwdg.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/stm32f10x_wwdg.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/system_stm32f10x.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/system_stm32f10x.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/timer.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Objects/timer.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Project.uvguix.16477" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/Project.uvguix.16477" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/User/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/User/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-2 MPU6050_hard/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../12-2 RTC/Project.uvguix.16477" beforeDir="false" afterPath="$PROJECT_DIR$/../../12-2 RTC/Project.uvguix.16477" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/stm32.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/stm32.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/stm32.elf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../9-1 USART/cmake-build-debug/stm32.hex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/.mxproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/Core/Inc/stm32f1xx_hal_conf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/Core/Inc/stm32f1xx_hal_conf.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/Core/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/Core/Src/stm32f1xx_hal_msp.c" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/Core/Src/stm32f1xx_hal_msp.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/cache-v2-7086bd3a395d71fa758d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ad42756152fdac13e00a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8de2d9efd3d3292787bb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-12T10-58-22-0328.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/target-stm.elf-Debug-6af753b21104cb38aef4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-af2dad9bb66845c0b0f2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeASMCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/Delay.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/MyDMA.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/OLED.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/syscalls.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/sysmem.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/system_stm32f1xx.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/stm.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/stm.elf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/stm.hex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/cmake-build-debug/stm.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DMA/stm.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../DMA/stm.ioc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LED_Twinkle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LED_Twinkle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/Core/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/.cmake/api/v1/reply/cache-v2-685d664a5fef5663eddb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b00c0b009e5b2fe57767.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-12T10-54-45-0681.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/Delay.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/OLED.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/syscalls.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/sysmem.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Src/system_stm32f1xx.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/CMakeFiles/stm.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_Template/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../_Template/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-1 LED_Twinkle/Project.uvguix.16477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-1 LED_Twinkle/Project.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-1 LED_Twinkle/Project.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAC/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../DAC/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAC/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../DAC/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/10_ADC/MDK-ARM/10_DMA.uvoptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../SS/10_ADC/MDK-ARM/10_DMA.uvoptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/10_ADC/MDK-ARM/10_DMA.uvprojx" beforeDir="false" afterPath="$PROJECT_DIR$/../../SS/10_ADC/MDK-ARM/10_DMA.uvprojx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/10_ADC/MDK-ARM/RTE/RTE_Components.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/.idea/fiv.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/.mxproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/CommonTables/arm_common_tables.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/CommonTables/arm_const_structs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_sin_cos_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_sin_cos_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sqrt_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sqrt_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_32x64_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_32x64_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_fast_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_fast_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_f64.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_init_f64.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_stereo_df2T_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_stereo_df2T_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_opt_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_opt_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_opt_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_opt_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_opt_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_opt_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_opt_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_opt_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_opt_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_fast_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_fast_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_fast_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_fast_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_inverse_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_inverse_f64.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_fast_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_fast_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_float.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_float.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_q7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_float.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_bitreversal.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix8_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_fast_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_fast_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_f32.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_q15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_q31.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f405xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f410cx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f410rx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f410tx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f412cx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f412rx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f412vx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f412zx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f415xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f417xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f429xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f437xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f439xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f446xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f469xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f479xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f401xc.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f401xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f405xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f407xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f410cx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f410rx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f410tx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f411xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f412cx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f412rx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f412vx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f412zx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f415xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f417xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f427xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f429xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f437xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f439xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f446xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f469xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f479xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f401xc.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f401xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f405xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f407xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f410cx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f410rx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f410tx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f411xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f412cx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f412rx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f412vx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f412zx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f415xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f417xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f427xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f429xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f437xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f439xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f446xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f469xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f479xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f401xc_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f401xc_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f401xe_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f401xe_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f405xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f405xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f407xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f407xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f410cx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f410cx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f410rx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f410rx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f410tx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f410tx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f411xe_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f411xe_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f412cx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f412cx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f412rx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f412rx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f412vx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f412vx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f412zx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f412zx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f415xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f415xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f417xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f417xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f427xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f427xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f429xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f429xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f437xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f437xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f439xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f439xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f446xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f446xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f469xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f469xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f479xx_flash.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/linker/stm32f479xx_sram.icf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f401xc.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f401xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f405xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f407xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f410cx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f410rx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f410tx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f411xe.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f412cx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f412rx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f412vx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f412zx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f415xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f417xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f427xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f429xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f437xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f439xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f446xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f469xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/iar/startup_stm32f479xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/arm_common_tables.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/arm_const_structs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/arm_math.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/cmsis_armcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/cmsis_armcc_V6.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/cmsis_gcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/core_cm0.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/core_cm0plus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/core_cm3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/core_cm4.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/core_cm7.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/core_cmFunc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/core_cmInstr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/core_cmSimd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/core_sc000.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/Include/core_sc300.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/CMSIS/RTOS/Template/cmsis_os.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_can.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cec.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_conf_template.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_crc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cryp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cryp_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dac.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dac_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dfsdm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma2d.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dsi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_eth.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_fmpi2c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_fmpi2c_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_hash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_hash_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_hcd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_irda.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_iwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_lptim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_ltdc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_ltdc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_nand.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_nor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pccard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_qspi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rtc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rtc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sai.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sai_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sdram.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_smartcard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spdifrx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sram.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_wwdg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_fmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_fsmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_sdmmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cryp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cryp_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dcmi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dfsdm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_eth.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fmpi2c.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_hash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_hash_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_hcd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_irda.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_iwdg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_lptim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_msp_template.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_nand.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_nor.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pccard.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_qspi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rng.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rtc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rtc_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sai.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sai_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_smartcard.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spdifrx.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sram.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_timebase_rtc_alarm_template.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_timebase_rtc_wakeup_template.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_timebase_tim_template.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_usart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_wwdg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fsmc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_sdmmc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/FreeRTOSConfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/Touch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/adc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/fg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/fmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/font.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/fsmc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/lcd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/menu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/mxconstants.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/spi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/stm32f4xx_hal_conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/stm32f4xx_it.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Inc/usart.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/DebugConfig/fiv_STM32F407IGTx.dbgconf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/RTE/RTE_Components.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv.uvguix.jx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv.uvoptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv.uvprojx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/adc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/adc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/adc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/adc_1.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/adc_1.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/adc_1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/beep.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/beep.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/beep.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/cmsis_os.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/cmsis_os.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/cmsis_os.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/croutine.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/croutine.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/croutine.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/dma.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/dma.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/event_groups.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/event_groups.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/event_groups.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/fiv.axf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/fiv.build_log.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/fiv.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/fiv.lnp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/fiv.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/fiv.sct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/fiv_fiv.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/freertos.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/freertos.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/freertos.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/fsmc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/fsmc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/fsmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/gpio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/gpio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/heap_4.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/heap_4.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/heap_4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/key3.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/key3.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/key3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/lcd.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/lcd.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/lcd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/list.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/list.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/list.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/main.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/main.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/menu.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/menu.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/menu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/port.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/port.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/port.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/queue.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/queue.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/queue.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/spi.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/spi.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/spi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/startup_stm32f407xx.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/startup_stm32f407xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_adc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_adc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_adc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_adc_ex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_adc_ex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_adc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_cortex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_cortex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_cortex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_dma.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_dma.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_dma_ex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_dma_ex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_dma_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_flash.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_flash.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_flash_ex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_flash_ex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_flash_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_flash_ramfunc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_flash_ramfunc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_flash_ramfunc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_gpio.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_gpio.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_msp.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_msp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_msp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_pwr.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_pwr.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_pwr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_pwr_ex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_pwr_ex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_pwr_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_rcc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_rcc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_rcc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_rcc_ex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_rcc_ex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_rcc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_spi.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_spi.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_spi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_sram.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_sram.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_sram.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_tim.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_tim.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_tim_ex.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_tim_ex.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_tim_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_uart.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_uart.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_hal_uart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_it.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_it.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_it.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_ll_fsmc.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_ll_fsmc.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/stm32f4xx_ll_fsmc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/system_stm32f4xx.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/system_stm32f4xx.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/system_stm32f4xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/tasks.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/tasks.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/tasks.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/tim.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/tim.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/timers.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/timers.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/timers.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/touch.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/touch.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/touch.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/usart.crf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/usart.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/fiv/usart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/startup_stm32f407xx.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/MDK-ARM/startup_stm32f407xx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/croutine.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOSConfig_template.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/StackMacros.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/list.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/queue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/task.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/list.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/queue.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/tasks.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Middlewares/Third_Party/FreeRTOS/Source/timers.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/ADC.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/Beep.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/Touch.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/dma.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/freertos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/fsmc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/key3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/lcd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/menu.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/spi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/stm32f4xx_hal_msp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/stm32f4xx_it.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/tim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/Src/usart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SS/fiv/fiv.ioc" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,24 +847,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/MyStm/HAL/I2C/Core/Inc&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/MyStm/HAL/DAC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\MyStm\HAL\I2C\Core\Inc" />
@@ -285,9 +877,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="stm" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm" TARGET_NAME="stm.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="stm" RUN_TARGET_NAME="stm.elf">
@@ -313,6 +905,7 @@
       <workItem from="1694515885570" duration="235000" />
       <workItem from="1695125352376" duration="1612000" />
       <workItem from="1695126988693" duration="3534000" />
+      <workItem from="1697610178741" duration="328000" />
     </task>
     <servers />
   </component>

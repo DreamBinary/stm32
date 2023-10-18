@@ -115,8 +115,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-wou40j"
-      binary: "D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-wou40j"
+      source: "D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gqx922"
+      binary: "D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gqx922"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -125,9 +125,9 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-wou40j
+        Change Dir: D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gqx922
         
-        Run Build Command(s):D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_e9e41 && [1/2] D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj -c "D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c"
+        Run Build Command(s):D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_622ac && [1/2] D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj -c "D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe
         Target: arm-none-eabi
@@ -135,8 +135,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-         d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -iprefix d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o X:\\Temp\\ccpLy0xi.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+         d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -iprefix d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o X:\\Temp\\cc6VSfsZ.s
         GNU C17 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)
         	compiled by GNU C version 7.3-win32 20180312, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
         
@@ -157,13 +157,13 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: f3937ce18b4177bfd408ca565336596a
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-         d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj X:\\Temp\\ccpLy0xi.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+         d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj X:\\Temp\\cc6VSfsZ.s
         GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621
         COMPILER_PATH=d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/;d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/;d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/;d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/;d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/;d:/myconfigure/gcc-arm-none-eabi/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-        [2/2] cmd.exe /C "cd . && "D:\\Mysoftware_setup\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_e9e41.a && arm-none-eabi-ar qc libcmTC_e9e41.a  CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj && D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_e9e41.a && cd ."
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+        [2/2] cmd.exe /C "cd . && "D:\\Mysoftware_setup\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_622ac.a && arm-none-eabi-ar qc libcmTC_622ac.a  CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj && D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_622ac.a && cd ."
         
       exitCode: 0
   -
@@ -195,9 +195,9 @@ events:
     message: |
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(arm-none-eabi-ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-wou40j]
+        ignore line: [Change Dir: D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gqx922]
         ignore line: []
-        ignore line: [Run Build Command(s):D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_e9e41 && [1/2] D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj -c "D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s):D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_622ac && [1/2] D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj -c "D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe]
         ignore line: [Target: arm-none-eabi]
@@ -205,8 +205,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [ d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -iprefix d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o X:\\Temp\\ccpLy0xi.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [ d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -iprefix d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o X:\\Temp\\cc6VSfsZ.s]
         ignore line: [GNU C17 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
         ignore line: []
@@ -227,8 +227,8 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: f3937ce18b4177bfd408ca565336596a]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [ d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj X:\\Temp\\ccpLy0xi.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [ d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj X:\\Temp\\cc6VSfsZ.s]
         ignore line: [GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621]
         ignore line: [COMPILER_PATH=d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/]
         ignore line: [d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/]
@@ -237,8 +237,8 @@ events:
         ignore line: [d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/]
         ignore line: [d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [d:/myconfigure/gcc-arm-none-eabi/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [[2/2] cmd.exe /C "cd . && "D:\\Mysoftware_setup\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_e9e41.a && arm-none-eabi-ar qc libcmTC_e9e41.a  CMakeFiles/cmTC_e9e41.dir/CMakeCCompilerABI.c.obj && D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_e9e41.a && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [[2/2] cmd.exe /C "cd . && "D:\\Mysoftware_setup\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_622ac.a && arm-none-eabi-ar qc libcmTC_622ac.a  CMakeFiles/cmTC_622ac.dir/CMakeCCompilerABI.c.obj && D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_622ac.a && cd ."]
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -256,8 +256,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-43j8nz"
-      binary: "D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-43j8nz"
+      source: "D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-tu5n1u"
+      binary: "D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-tu5n1u"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -266,9 +266,9 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-43j8nz
+        Change Dir: D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-tu5n1u
         
-        Run Build Command(s):D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_15285 && [1/2] D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj -c "D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
+        Run Build Command(s):D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_d1b2d && [1/2] D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj -c "D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-g++.exe
         Target: arm-none-eabi
@@ -276,8 +276,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-         d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -iprefix d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj -version -fdiagnostics-color=always -o X:\\Temp\\cczcgRkG.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+         d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -iprefix d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj -version -fdiagnostics-color=always -o X:\\Temp\\ccPabJVj.s
         GNU C++14 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)
         	compiled by GNU C version 7.3-win32 20180312, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
         
@@ -304,13 +304,13 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: f8787892a7c5aa84cea58dce52be7118
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-         d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj X:\\Temp\\cczcgRkG.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+         d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj X:\\Temp\\ccPabJVj.s
         GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621
         COMPILER_PATH=d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/;d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/;d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/;d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/;d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/;d:/myconfigure/gcc-arm-none-eabi/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-        [2/2] cmd.exe /C "cd . && "D:\\Mysoftware_setup\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_15285.a && arm-none-eabi-ar qc libcmTC_15285.a  CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj && D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_15285.a && cd ."
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+        [2/2] cmd.exe /C "cd . && "D:\\Mysoftware_setup\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_d1b2d.a && arm-none-eabi-ar qc libcmTC_d1b2d.a  CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj && D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_d1b2d.a && cd ."
         
       exitCode: 0
   -
@@ -348,9 +348,9 @@ events:
     message: |
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(arm-none-eabi-ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-43j8nz]
+        ignore line: [Change Dir: D:/MyStm/HAL/I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-tu5n1u]
         ignore line: []
-        ignore line: [Run Build Command(s):D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_15285 && [1/2] D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj -c "D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s):D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_d1b2d && [1/2] D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj -c "D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-g++.exe]
         ignore line: [Target: arm-none-eabi]
@@ -358,8 +358,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [ d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -iprefix d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj -version -fdiagnostics-color=always -o X:\\Temp\\cczcgRkG.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [ d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -iprefix d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\myconfigure\\gcc-arm-none-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Mysoftware_setup/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj -version -fdiagnostics-color=always -o X:\\Temp\\ccPabJVj.s]
         ignore line: [GNU C++14 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
         ignore line: []
@@ -386,8 +386,8 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: f8787892a7c5aa84cea58dce52be7118]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [ d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj X:\\Temp\\cczcgRkG.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [ d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj X:\\Temp\\ccPabJVj.s]
         ignore line: [GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621]
         ignore line: [COMPILER_PATH=d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/]
         ignore line: [d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/]
@@ -396,8 +396,8 @@ events:
         ignore line: [d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/]
         ignore line: [d:/myconfigure/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [d:/myconfigure/gcc-arm-none-eabi/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [[2/2] cmd.exe /C "cd . && "D:\\Mysoftware_setup\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_15285.a && arm-none-eabi-ar qc libcmTC_15285.a  CMakeFiles/cmTC_15285.dir/CMakeCXXCompilerABI.cpp.obj && D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_15285.a && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [[2/2] cmd.exe /C "cd . && "D:\\Mysoftware_setup\\JetBrains\\CLion 2023.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_d1b2d.a && arm-none-eabi-ar qc libcmTC_d1b2d.a  CMakeFiles/cmTC_d1b2d.dir/CMakeCXXCompilerABI.cpp.obj && D:\\MyConfigure\\gcc-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_d1b2d.a && cd ."]
         ignore line: []
         ignore line: []
         implicit libs: []

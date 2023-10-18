@@ -14,6 +14,6 @@
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Minimal optimization, debug info included
--- Configuring done (1.4s)
+-- Configuring done (4.2s)
 -- Generating done (0.0s)
 -- Build files have been written to: D:/MyStm/HAL/DAC/cmake-build-debug

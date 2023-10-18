@@ -93,7 +93,7 @@ int main(void) {
     __HAL_RCC_I2C2_CLK_ENABLE();
     MPU6050_Init(Sensor_I2C2_Serch());
     /* USER CODE BEGIN 2 */
-
+    HAL_I2C_Mem_Write()
     /* USER CODE END 2 */
 
     /* Infinite loop */
@@ -102,6 +102,7 @@ int main(void) {
     while (1) {
         OLED_ShowNum(1, 1, MPU6050_GetId(), 10);
         /* USER CODE END WHILE */
+
 
         /* USER CODE BEGIN 3 */
     }
